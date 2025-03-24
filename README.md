@@ -29,10 +29,7 @@ This project is a **CRUD (Create, Read, Update, Delete) application** built with
 Follow these steps to run the project:
 
 1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+  https://github.com/Nishtha4210/firebase-auth-4210.git
 2. **Install dependencies**
    ```sh
    npm install
@@ -49,10 +46,8 @@ Follow these steps to run the project:
 4. Click **Update** to modify user details.
 5. Click **Delete** to remove a user.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
 ---
-💡 **Developed by [Your Name](https://github.com/your-username)**
+💡 **Developed by Nishtha (https://github.com/Nishtha4210)**
 
 
