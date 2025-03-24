@@ -1,12 +1,58 @@
-# React + Vite
+# React Firebase Auth Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About the Project
+This project is a **CRUD (Create, Read, Update, Delete) application** built with **React.js** and **Firebase Firestore**. It provides a simple and user-friendly interface to manage user records, including Name, Email, Password, Gender, and Hobbies.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
+- **React.js** - Frontend framework
+- **Firebase Firestore** - Database
+- **Bootstrap** - Styling & UI framework
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Add new users with Name, Email, Password, Gender, and Hobbies
+- View a list of registered users
+- Update user information
+- Delete users
+- Responsive UI using Bootstrap
 
-## Expanding the ESLint configuration
+## 📁 Project Structure
+```
+/src
+│── App.jsx          # Main application logic
+│── App.css          # Application styles
+│── index.css        # Global styles
+│── main.jsx         # Entry point of the app
+│── react.svg        # React logo
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Installation & Setup
+Follow these steps to run the project:
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
+3. **Run the development server**
+   ```sh
+   npm run dev
+   ```
+
+## 🎮 How to Use
+1. Enter **Name, Email, Password, Gender, and Hobbies** in the form.
+2. Click **Submit** to add the user to Firebase.
+3. The user details will be displayed in the list.
+4. Click **Update** to modify user details.
+5. Click **Delete** to remove a user.
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
+
+---
+💡 **Developed by [Your Name](https://github.com/your-username)**
+
+
